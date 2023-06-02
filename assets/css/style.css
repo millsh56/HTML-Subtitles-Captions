@@ -26,3 +26,8 @@ main p {
 main h2 {
     color: lightseagreen;
 }
+
+.dog-video {
+    display: inline-block;
+    width: 400px;
+}
